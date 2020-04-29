@@ -1,6 +1,5 @@
 Ide-ide untuk mengembangkan alat untuk mengatasi corona : 
 1. Produksi ventilator
-2. Produksi robot temi
-3. Buat sterilization chamber
-4. produksi smart helmet
-5. produksi tempat cuci tangan
+2. Buat sterilization chamber
+3. produksi smart helmet
+4. produksi tempat cuci tangan
